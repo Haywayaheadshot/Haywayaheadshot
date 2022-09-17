@@ -9,6 +9,6 @@ Welcome to my profile. I am a Stack Software Engineer. Exceptional musician. I l
 - 💬 Ask me about anything you want
 - 📫 How to reach me: haywayaheadshotstrategy.fx@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Skilss: JS /  HTML / CSS
+- ⚡ Skilss: Nodejs / JS /  HTML / CSS
 
 
