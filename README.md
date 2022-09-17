@@ -12,5 +12,3 @@ Welcome to my profile. I am a Stack Software Engineer. Exceptional musician. I l
 - ⚡ Skilss: JS /  HTML / CSS
 
 
-[https://www.flaticon.com/free-icon/facebook_725289](https://www.facebook.com/HaywayaLive)
-
