@@ -9,6 +9,6 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
 - 💬 Ask me about anything you want
 - 📫 How to reach me: haywayaheadshotstrategy.fx@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Skills: Nodejs / JS /  HTML / CSS
+- ⚡ Skills: SCSS / JS /  HTML / CSS
 
 
