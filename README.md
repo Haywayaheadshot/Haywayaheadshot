@@ -5,7 +5,7 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
 - 🔭 I’m currently working on making beautiful music and building my portfolio
 - 🌱 I’m currently mastering bootstrap
 - 👯 I’m looking to collaborate on javascript projects
-- 🤔 I’m looking for help with understanding breaking down Algorithms and Data Structure
+- 🤔 I’m looking for help with understanding and breaking down Algorithms and Data Structure
 - 💬 Ask me about anything you want
 - 📫 How to reach me: haywayaheadshotstrategy.fx@gmail.com
 - 😄 Pronouns: He / Him
