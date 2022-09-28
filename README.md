@@ -29,9 +29,12 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
 
 
 ### :fire: My Stats :
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&theme=vision-friendly-dark)](https://github.com/Haywayaheadshot/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://github.com/Haywayaheadshot/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haywayaheadshot&theme=dark&background=000000)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Haywayaheadshot&label=Profile%20views&color=blueviolet&style=flat" alt="AbubakarUmmar" /> </p>
 
  
