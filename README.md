@@ -9,8 +9,8 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
 </div>
 
 #### 🔭 I’m currently working on making beautiful music and building my portfolio
-#### 🌱 I’m currently mastering React
-#### 👯 I’m looking to collaborate on JavaScript projects
+#### 🌱 I’m currently mastering Ruby
+#### 👯 I’m looking to collaborate on React projects
 #### 🤔 I’m looking for help with understanding and breaking down Algorithms and Data Structure
 #### 💬 Ask me about anything you want
 #### 😄 Pronouns: He / Him
@@ -25,6 +25,7 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"      height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40"   height="40"/>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </div>
 
 
