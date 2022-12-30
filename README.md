@@ -3,7 +3,7 @@
 Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician. I love learning new things. A problem solver. Making music and writing codes are two but one to me.  I am currently available for hire and open to new job opportunities. Check out my linkedin below and connect with me.
 
 <div>
-  <a href="https://www.linkedin.com/in/abubakar-ummar-4b6643245/">
+  <a href="https://www.linkedin.com/in/abubakar-ummar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
