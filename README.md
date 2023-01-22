@@ -4,7 +4,6 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarfmdev&theme=chalk&column=4" alt="oscarfmdev" /></a> <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />  </p>
-<p align="left"> <a href="https://twitter.com/oscarfmdev" target="blank"><img src="https://img.shields.io/twitter/follow/oscarfmdev?logo=twitter&style=for-the-badge" alt="oscarfmdev" /></a></p>
 
 <div>
   <a href="https://www.linkedin.com/in/abubakar-ummar/">
