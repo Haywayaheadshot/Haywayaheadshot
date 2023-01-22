@@ -2,6 +2,10 @@
 
 Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician. I love learning new things. A problem solver. Making music and writing codes are two but one to me.  I am currently available for hire and open to new job opportunities. Check out my linkedin below and connect with me.
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarfmdev&theme=chalk&column=4" alt="oscarfmdev" /></a> <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />  </p>
+<p align="left"> <a href="https://twitter.com/oscarfmdev" target="blank"><img src="https://img.shields.io/twitter/follow/oscarfmdev?logo=twitter&style=for-the-badge" alt="oscarfmdev" /></a></p>
+
 <div>
   <a href="https://www.linkedin.com/in/abubakar-ummar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,10 +42,6 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarfmdev&theme=chalk&column=4" alt="oscarfmdev" /></a> <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />  </p>
-<p align="left"> <a href="https://twitter.com/oscarfmdev" target="blank"><img src="https://img.shields.io/twitter/follow/oscarfmdev?logo=twitter&style=for-the-badge" alt="oscarfmdev" /></a></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haywayaheadshot&label=Profile%20views&color=blueviolet&style=flat" alt="AbubakarUmmar" /> </p>
