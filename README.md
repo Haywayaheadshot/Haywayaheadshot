@@ -12,8 +12,8 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
 </div>
 
 #### 🔭 I’m currently working on making beautiful music and building my portfolio
-#### 🌱 I’m currently mastering Ruby
-#### 👯 I’m looking to collaborate on React / Redux projects
+#### 🌱 I’m currently mastering Rails
+#### 👯 I’m looking to collaborate on Ruby
 #### 🤔 I’m looking for help with understanding and breaking down Algorithms and Data Structure
 #### 💬 Ask me about anything you want
 #### 😄 Pronouns: He / Him
