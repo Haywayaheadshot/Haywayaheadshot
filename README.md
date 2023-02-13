@@ -37,7 +37,19 @@ Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician.
 
 
 ### :fire: My Stats :
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://github.com/Haywayaheadshot/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://github.com/Haywayaheadshot/github-readme-stats) -->
+
+   <table width="100%" align="center">
+   <tr>
+      <td>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&hide_border=true&theme=tokyonight" />
+      </td>
+      <td>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&show_icons=true&hide_border=true&layout=compact&langs_count=8&&theme=tokyonight" />
+      </td>
+
+   </tr>
+</table>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
