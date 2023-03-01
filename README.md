@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile. I am a FullStack Software Engineer. Exceptional musician. I love learning new things. A problem solver. Making music and writing codes are two but one to me.  I am currently available for hire and open to new job opportunities. Check out my linkedin below and connect with me.
+Welcome to my profile. I am a FullStack Software Engineer. I love learning new things. A problem solver. Making music and writing codes are two but one to me.  I am currently available for hire and open to new job opportunities. Check out my linkedin below and connect with me.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haywayaheadshot&theme=chalk&column=4" alt="haywayaheadshot" /></a> <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />  </p>
