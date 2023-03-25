@@ -12,11 +12,10 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 </div>
 
 #### 🔭 I’m currently working on making beautiful music and building my portfolio
-#### 🌱 I’m currently mastering Rails
-#### 👯 I’m looking to collaborate on Ruby
+#### 🌱 I’m currently mastering Data Structure and Algorithms
+#### 👯 I’m looking to collaborate on Full Stack Projects
 #### 🤔 I’m looking for help with understanding and breaking down Algorithms and Data Structure
 #### 💬 Ask me about anything you want
-#### 😄 Pronouns: He / Him
 
 ### 📫 If you prefer reaching out via email, check it out below: 
 > [haywayaheadshotstrategy.fx@gmail.com](https://www.gmail.com)
@@ -60,7 +59,7 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://github.com/Haywayaheadshot/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haywayaheadshot&label=Profile%20views&color=blueviolet&style=flat" alt="AbubakarUmmar" /> </p>
