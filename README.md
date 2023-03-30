@@ -65,10 +65,10 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haywayaheadshot&label=Profile%20views&color=blueviolet&style=flat" alt="AbubakarUmmar" /> </p>
 
 
-<h3>My GitHub Contribution Graph<h3><hr>
+<!-- <h3>My GitHub Contribution Graph<h3><hr>
   
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Haywayaheadshot&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Haywayaheadshot&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 
