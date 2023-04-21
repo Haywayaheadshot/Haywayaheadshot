@@ -18,7 +18,7 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 #### 💬 Ask me about anything you want
 
 ### 📫 If you prefer reaching out via email, check it out below: 
-> [haywayaheadshotstrategy.fx@gmail.com](https://www.gmail.com)
+> Click <a href="mailto:ummarabubakar@outlook.com"> here </a>
 
 ### :hammer_and_wrench: Languages and Tools I have worked with: 
 
