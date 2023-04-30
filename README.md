@@ -14,7 +14,7 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 #### 🔭 I’m currently working on making beautiful music and building my portfolio
 #### 🌱 I’m currently mastering Data Structure and Algorithms
 #### 👯 I’m looking to collaborate on Full Stack Projects
-#### 🤔 I’m looking for help with understanding and breaking down Algorithms and Data Structure
+#### 🤔 I’m looking for help with understanding TypeScript
 #### 💬 Ask me about anything you want
 
 ### 📫 If you prefer reaching out via email, check it out below: 
