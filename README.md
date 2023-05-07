@@ -3,7 +3,9 @@
 Welcome to my profile. I am a FullStack Software Engineer. I love learning new things. A problem solver. Making music and writing codes are two but one to me.  I am currently available for hire and open to new job opportunities. Check out my linkedin below and connect with me.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haywayaheadshot&theme=chalk&column=4" alt="haywayaheadshot" /></a> <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />  </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haywayaheadshot&theme=chalk&column=4" alt="haywayaheadshot" /></a> <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</p>
 
 <div>
   <a href="https://www.linkedin.com/in/abubakar-ummar/">
@@ -57,16 +59,18 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Haywayaheadshot&label=Profile%20views&color=blueviolet&style=flat" alt="AbubakarUmmar" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Haywayaheadshot&label=Profile%20views&color=blueviolet&style=flat" alt="AbubakarUmmar" /> </p>
 
 
-<!-- <h3>My GitHub Contribution Graph<h3><hr>
+<h3>My GitHub Contribution Graph<h3><hr>
   
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Haywayaheadshot&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Haywayaheadshot&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
