@@ -63,13 +63,13 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
 
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 
 <a href="http://www.github.com/Haywayaheadshot"><img src="https://github-readme-stats.vercel.app/api?username=Haywayaheadshot&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Haywayaheadshot's GitHub stats" /></a>
 
 <a href="http://www.github.com/Haywayaheadshot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haywayaheadshot&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Haywayaheadshot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Haywayaheadshot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
