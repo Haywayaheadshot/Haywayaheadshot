@@ -73,8 +73,6 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
 
 
-<!-- s
-
 
 
 
