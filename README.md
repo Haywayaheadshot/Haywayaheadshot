@@ -32,6 +32,7 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/kotlin-%231572B6.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 - 🌐 &nbsp;
   ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -44,6 +45,7 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Redux createAsyncThunk](https://img.shields.io/badge/Redux-createAsyncThunk-333333?style=flat&logo=createAsyncThunk)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/android-studio.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
