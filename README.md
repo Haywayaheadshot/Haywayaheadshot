@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile. I am a FullStack Software Engineer. I love learning new things. A problem solver. Making music and writing codes are two but one to me.  I am currently available for hire and open to new job opportunities. Check out my linkedin below and connect with me.
+Welcome to my profile. I am a FullStack Software Engineer. I love learning new things. A problem solver. I am currently available for hire and open to new job opportunities. Check out my linkedin below and connect with me.
 
 
 <p align="left">
@@ -16,7 +16,7 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 </div>
 
 #### 🔭 I’m currently working on building full-stack projects
-#### 🌱 I’m currently mastering Data Structure and Algorithms
+#### 🌱 I’m currently looking for new opportunities
 #### 👯 I’m looking to collaborate on open-source projects
 #### 💬 Ask me about anything you want
 
