@@ -2,6 +2,10 @@
 
 Welcome to my profile. I am a FullStack Software Engineer. I love learning new things. A problem solver. I am currently available for hire and open to new job opportunities. Check out my linkedin below and connect with me.
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Haywayaheadshot/count.svg" alt="Visitor's Count" />
+</div>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haywayaheadshot&theme=chalk&column=4" alt="haywayaheadshot profile" /></a>
