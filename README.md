@@ -77,5 +77,3 @@ Welcome to my profile. I am a FullStack Software Engineer. I love learning new t
 
 <a href="http://www.github.com/Haywayaheadshot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Haywayaheadshot&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haywayaheadshot&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
